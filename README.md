@@ -1,4 +1,4 @@
-# Cesar decoder. 
+# Cesar decoder
 This repository allows you to decode any text encrypted with Cesar Algorithm.
 
 # How to use
